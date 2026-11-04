@@ -1,0 +1,95 @@
+MACH3 STUDIO — TERMOS DE USO (LICENÇA FREEWARE)
+Copyright (c) 2026 Impacto CNC. Todos os direitos reservados.
+
+Ao instalar, copiar ou usar o Mach3 Studio ("Software"), você concorda com estes termos.
+Se não concordar, não instale nem use o Software.
+
+1. LICENÇA DE USO
+   O autor do Software ("Autor") concede a você, gratuitamente, uma licença não exclusiva e
+   intransferível para instalar e usar o Software em quantos computadores quiser, para fins
+   pessoais ou comerciais, inclusive em oficinas, empresas e indústrias.
+
+2. REDISTRIBUIÇÃO
+   Você pode copiar e repassar o instalador original do Software para outras pessoas, desde que:
+   a) o arquivo não seja alterado, reempacotado nem combinado com outros programas;
+   b) a distribuição seja gratuita;
+   c) estes termos acompanhem o Software.
+   Sempre que possível, indique a página oficial de download.
+
+3. O QUE NÃO É PERMITIDO
+   a) vender, alugar, sublicenciar ou cobrar de qualquer forma pelo Software ou por sua distribuição;
+   b) modificar, traduzir, descompilar, desmontar, extrair o código ou fazer engenharia reversa do
+      Software, exceto nos casos expressamente permitidos por lei;
+   c) distribuir versões modificadas, ou incorporar o Software ou partes dele em outro produto;
+   d) remover ou alterar avisos de autoria, marcas ou estes termos;
+   e) apresentar o Software, ou trabalho derivado dele, como sendo de outra autoria.
+
+4. SEUS ARQUIVOS SÃO SEUS
+   Telas (.set/.lset), projetos, imagens, scripts e macros criados por você com o Software
+   pertencem a você. Você pode usá-los, vendê-los e distribuí-los livremente. O Autor não
+   reivindica nenhum direito sobre eles.
+
+5. PROPRIEDADE INTELECTUAL
+   O Software é protegido pela legislação de direitos autorais e de programas de computador
+   (Leis nº 9.609/98 e nº 9.610/98) e por tratados internacionais. Esta licença concede apenas
+   o direito de uso descrito acima; todos os demais direitos ficam reservados ao Autor.
+
+6. COMPONENTES DE TERCEIROS
+   O Software inclui componentes de código aberto (como Electron, Chromium, React e Monaco
+   Editor), cada um regido por sua própria licença (MIT, BSD, Apache e outras). Nada nestes
+   termos limita os direitos que essas licenças concedem sobre esses componentes.
+
+7. CONTRIBUIÇÕES (DOAÇÕES)
+   Contribuições financeiras são voluntárias. Elas não compram licença, suporte, garantia,
+   prioridade nem recursos adicionais, e o Software continua gratuito com ou sem contribuição.
+
+8. AUSÊNCIA DE GARANTIA
+   O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS DE QUALQUER TIPO,
+   EXPRESSAS OU IMPLÍCITAS, INCLUSIVE DE FUNCIONAMENTO ININTERRUPTO, AUSÊNCIA DE ERROS OU
+   ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA.
+
+9. MÁQUINAS CNC E LIMITAÇÃO DE RESPONSABILIDADE
+   O Software cria e instala arquivos de tela, scripts e macros usados pelo Mach3 para comandar
+   máquinas CNC (plasma, oxicorte, router, fresa, torno e outras). Você é o único responsável por
+   revisar e testar cada tela, botão, script e macro em condições seguras antes de usá-los em
+   operação, e por manter cópias de segurança dos seus arquivos.
+   Na máxima extensão permitida pela lei, o Autor não se responsabiliza por quaisquer danos,
+   diretos ou indiretos, decorrentes do uso ou da impossibilidade de uso do Software, incluindo
+   danos a máquinas, ferramentas, peças, materiais, instalações ou pessoas, perda de produção,
+   de dados ou de lucros.
+
+10. ASSISTENTES DE INTELIGÊNCIA ARTIFICIAL
+    O Software permite que assistentes de IA de terceiros o operem por meio do protocolo MCP.
+    O uso desses serviços é regido pelos termos dos respectivos fornecedores. As alterações feitas
+    por um assistente devem ser revisadas por você, e o Autor não responde pelas ações executadas
+    por esses serviços.
+
+11. MARCAS
+    "Mach3" e "Mach4" são marcas de seus respectivos titulares (ArtSoft / Newfangled Solutions).
+    O Mach3 Studio é um projeto independente, sem afiliação, patrocínio ou endosso dessas empresas.
+    As marcas são citadas apenas para indicar compatibilidade.
+
+12. ENCERRAMENTO
+    Esta licença termina automaticamente se você descumprir qualquer destes termos. Nesse caso,
+    você deve parar de usar e de distribuir o Software. As cláusulas 4, 8, 9 e 11 continuam
+    valendo após o encerramento.
+
+13. ALTERAÇÕES
+    Versões futuras do Software podem ser distribuídas com termos diferentes. Cada versão é regida
+    pelos termos que a acompanham.
+
+14. LEI APLICÁVEL
+    Estes termos são regidos pelas leis da República Federativa do Brasil.
+
+--------------------------------------------------------------------------------
+ENGLISH SUMMARY (for convenience only; the Portuguese text above prevails)
+
+Mach3 Studio is freeware: you may install and use it free of charge, for personal or commercial
+purposes, on any number of computers, and share the original, unmodified installer free of charge.
+You may not sell, rent or charge for it, modify, decompile or reverse engineer it (except where the
+law expressly allows), redistribute modified versions, or remove copyright notices. Screens,
+projects, scripts and macros you create are yours. Donations are voluntary and grant no additional
+rights. The Software is provided "as is", without warranty of any kind; you are solely responsible
+for testing screens, scripts and macros safely before running a CNC machine, and the author is not
+liable for any damages. Mach3 is a trademark of its respective owners; this project is not
+affiliated with or endorsed by them. Governed by the laws of Brazil.
